@@ -1,4 +1,4 @@
-const API_URL="http://localhost:5002/todos"
+const API_URL="https://c9b0-186-27-176-181.ngrok-free.app/todos"
 
 //inicializar  la aplicacion
 document.addEventListener("DOMContentLoaded",()=>{
